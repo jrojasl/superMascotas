@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mi Super Mascota</string>
+    <string name="tvTitulo">Bienvenido</string>
+    <string name="tvNombreMascota">Nombre de la mascota</string>
+    <string name="etNombreMascota">ej: Tony</string>
+    <string name="tvTipoMascota">Tipo</string>
+    <string name="rdTipo1">Perro</string>
+    <string name="rdTipo2">Gato</string>
+    <string name="txtIngresar">Ingresar</string>
+    <string name="tvResultadoPago"></string>
+    <string name="tvResultadoNombre"></string>
+    <string name="tvResultadoTipo"></string>
+    <string name="btnTerminado">¡Listo!</string>
+
+
+</resources>
